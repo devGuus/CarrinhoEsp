@@ -1,7 +1,3 @@
-Aqui está um **README.md** completo e bem formatado para o seu projeto do carrinho controlado por Wi-Fi com ESP8266 👇
-
----
-
 # 🚗 Carrinho Wi-Fi com ESP8266
 
 Este projeto permite controlar um **carrinho robô** utilizando um **módulo ESP8266 (NodeMCU)**.
