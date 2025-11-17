@@ -129,7 +129,9 @@ Cada botão envia uma requisição HTTP simples ao ESP, que ativa o movimento co
 **Marcelo Berguer Gil**
 
 **Lucas Vinicius**
+
 📅 Projeto desenvolvido com ESP8266 e C++ (Arduino IDE).
+
 💬 Foco em aprendizado e controle de robótica com Wi-Fi.
 
 ---
