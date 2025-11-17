@@ -31,7 +31,7 @@ Ao conectar-se a essa rede, basta acessar o **IP padrão do ESP8266 (geralmente 
 | Motor DC                                 | 2          | Motores das rodas      |
 | Fonte de alimentação (pilhas ou bateria) | 1          | Alimenta os motores    |
 | Jumpers                                  | Vários     | Conexões elétricas     |
-| Chassi do carrinho                       | 1          | Estrutura física       |
+| Chassi do carrinho                       | 1          | Fonte de PC            |
 
 ---
 
